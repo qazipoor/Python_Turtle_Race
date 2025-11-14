@@ -53,8 +53,7 @@ No external libraries — everything runs using Python’s built‑in **turtle**
 ## 📸 Demo
 Preview:
 ```
-/assets/
-   race_preview.gif
+![race_preview.gif](assets/race_preview.gif)
 ```
 
 ---
