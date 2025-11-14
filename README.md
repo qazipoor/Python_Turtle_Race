@@ -17,6 +17,8 @@ A fun and interactive Python project using the built-in **turtle** module, where
 ```
 Python_Turtle_Race/
 │
+├── assets
+│    └── race_preview.gif   
 ├── main.py
 └── README.md
 ```
@@ -49,7 +51,7 @@ No external libraries — everything runs using Python’s built‑in **turtle**
 ---
 
 ## 📸 Demo
-Add screenshots or GIF previews here once available:
+Preview:
 ```
 /assets/
    race_preview.gif
