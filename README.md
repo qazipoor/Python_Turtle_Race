@@ -52,9 +52,9 @@ No external libraries — everything runs using Python’s built‑in **turtle**
 
 ## 📸 Demo
 Preview:
-```
+
 ![hippo](./assets/race_preview.gif)
-```
+
 
 ---
 
